@@ -4,7 +4,7 @@
 
 ### 🧠 my knowledge ⭸
 
-[<img src="res/python-original.svg" alt="python" width="40" height="40"/>](https://github.com/python)[<img src="res/sql.jpg" alt="sql" width="54" height="40"/>](https://github.com/python)[<img src="https://avatars.mds.yandex.net/i?id=57966ff4263dab1dd82bc82f5eb591b2286f3390-8357950-images-thumbs&n=13" alt="unittest" width="40" height="40"/>](https://github.com/python)[<img src="res/pytest.png" alt="pytest" width="40" height="40"/>](https://github.com/python)[<img src="res/html.png" alt="html" width="40" height="40"/>](https://github.com/python)[<img src="res/css.png" alt="css" width="40" height="40"/>](https://github.com/python)[<img src="res/pygame-head-party.png" alt="pygame" width="40" height="40"/>](https://github.com/python)[<img src="res/pyqt.png" alt="pyqt" width="40" height="30"/>](https://github.com/python)
+[<img src="res/python-original.svg" alt="python" width="40" height="40"/>](https://github.com/python)[<img src="res/sql.jpg" alt="sql" width="52" height="40"/>](https://github.com/python)[<img src="https://avatars.mds.yandex.net/i?id=57966ff4263dab1dd82bc82f5eb591b2286f3390-8357950-images-thumbs&n=13" alt="unittest" width="40" height="40"/>](https://github.com/python)[<img src="res/pytest.png" alt="pytest" width="40" height="40"/>](https://github.com/python)[<img src="res/html.png" alt="html" width="40" height="40"/>](https://github.com/python)[<img src="res/css.png" alt="css" width="40" height="40"/>](https://github.com/python)[<img src="res/pygame-head-party.png" alt="pygame" width="40" height="40"/>](https://github.com/python)[<img src="res/pyqt.png" alt="pyqt" width="40" height="30"/>](https://github.com/python)
 
 ### 📕 learning these technologies ⭸
 
