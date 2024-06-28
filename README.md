@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Hello there !
+=======
+## Hello there 
+>>>>>>> af8d530230ae264be0ab10f79b283d58832cc097
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
