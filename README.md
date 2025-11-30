@@ -4,11 +4,11 @@
 
 ### 🧠 my knowledge
 
-[<img src="res/python-original.svg" alt="python" width="40" height="40"/>](https://github.com/python)[<img src="res/sql.jpg" alt="sql" width="52" height="40"/>](https://github.com/python)[<img src="https://avatars.mds.yandex.net/i?id=57966ff4263dab1dd82bc82f5eb591b2286f3390-8357950-images-thumbs&n=13" alt="unittest" width="40" height="40"/>](https://github.com/python)[<img src="res/pytest.png" alt="pytest" width="40" height="40"/>](https://github.com/python)[<img src="res/html.png" alt="html" width="40" height="40"/>](https://github.com/python)[<img src="res/css.png" alt="css" width="40" height="40"/>](https://github.com/python)[<img src="res/pygame-head-party.png" alt="pygame" width="40" height="40"/>](https://github.com/python)[<img src="res/pyqt.png" alt="pyqt" width="40" height="30"/>](https://github.com/python)
+[<img src="res/python-original.svg" alt="python" width="40" height="40"/>](https://github.com/python)[<img src="res/sql.jpg" alt="sql" width="52" height="40"/>](https://github.com)[<img src="res/unittest.png" alt="unittest" width="40" height="40"/>](https://github.com/python)[<img src="res/pytest.png" alt="pytest" width="40" height="40"/>](https://github.com/python)[<img src="res/html.png" alt="html" width="40" height="40"/>](https://github.com)[<img src="res/css.png" alt="css" width="40" height="40"/>](https://github.com)[<img src="res/pygame-head-party.png" alt="pygame" width="40" height="40"/>](https://github.com/python)[<img src="res/pyqt.png" alt="pyqt" width="40" height="30"/>](https://github.com/python)[<img src="res/cpp.png" alt="C++" width="40" height="40"/>](https://github.com)
 
 ### 📕 learning these technologies
 
-[<img src="https://www.digiseller.ru/preview/307467/p1_1986716_c7d6ef4a.png" alt="C++" width="40" height="40"/>](https://github.com/python)[<img src="res/csharp.svg" alt="C#" width="40" height="40"/>](https://github.com/python)[<img src="res/flask.png" alt="flask" width="40" height="40"/>](https://github.com/python)[<img src="https://i.dobrzemieszkaj.pl/i/35/44/70/354470.jpg" alt="assembler" width="40" height="40"/>](https://github.com/python) [<img src="res/react-original.svg" width="40" height="40"/>](https://github.com/python)
+[<img src="res/csharp.svg" alt="C#" width="40" height="40"/>](https://github.com)[<img src="res/flask.png" alt="flask" width="40" height="40"/>](https://github.com)[<img src="res/assembler.png" alt="assembler" width="40" height="40"/>](https://github.com) [<img src="res/react-original.svg" width="40" height="40"/>](https://github.com)
 
 ### 〠 my social
 
